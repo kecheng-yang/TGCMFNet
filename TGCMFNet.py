@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@Time ： 2023/3/6 13:26
-@Author ：Kexin Ding
-@FileName ：TGCMFNet.py
-"""
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F

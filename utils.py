@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@Time ： 2023/3/6 13:26
-@Author ：Kexin Ding
-@FileName ：utils.py
-"""
+
 import torch
 import torch.backends.cudnn as cudnn
 import numpy as np

@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@Time ： 2023/3/6 13:26
-@Author ：Kexin Ding
-@FileName ：demo.py
-"""
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = str("0")
 import argparse
