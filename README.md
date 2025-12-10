@@ -1,9 +1,5 @@
 # TGCMFNet: Text-Guided Cross-Modal Fusion Network
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.8.0+-orange.svg)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/License-Academic-blue.svg)](LICENSE)
-
 **TGCMFNet** (Text-Guided Cross-Modal Fusion Network) 是一个用于高光谱图像（HSI）和LiDAR数据融合分类的深度学习框架。该网络通过引入文本引导的跨模态对齐机制，实现了多模态数据的高效融合和精确分类。
 
 
